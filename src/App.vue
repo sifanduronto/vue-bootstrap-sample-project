@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="p-4">
+  <div id="app">
     
     <Nav-bar />
     <Header title="Item Information" />
@@ -30,6 +30,5 @@ export default {
   text-align: center;
   color: #2c3e50;
   background-color:#FAFAFA;
-  margin-top: 60px;
 }
 </style>
